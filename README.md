@@ -334,10 +334,7 @@ terraform apply -var="active_environment=blue" -auto-approve
 ![Both ASGs Exist](images/02-both-ASGs-exist.png)
 
 ### Proof — Blue Switching to Green
-![Blue Switching to Green](images/02-blue-switching-to-green.png)
-
-### Proof — Switched to Green
-![Switched to Green](images/02-switched-to-green.png)
+![Blue Switching to Green](images/02-switching-from-blue-to-green.png)
 
 ---
 
